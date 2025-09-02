@@ -1,4 +1,4 @@
-name: stress_rag_ci
+name: stressCI
 
 on:
   push:
