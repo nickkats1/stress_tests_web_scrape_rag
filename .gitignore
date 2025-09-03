@@ -1,0 +1,17 @@
+## ignore .env
+
+**.env
+venv/
+
+__pycache__
+
+# ignore ides
+.vscode
+
+
+
+
+
+
+
+
